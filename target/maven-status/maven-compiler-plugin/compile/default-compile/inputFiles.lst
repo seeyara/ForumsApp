@@ -1,0 +1,17 @@
+/home/siyara/eclipse-workspace/ForumService/src/main/java/org/assignment/constants/Posts.java
+/home/siyara/eclipse-workspace/ForumService/src/main/java/org/assignment/constants/Article.java
+/home/siyara/eclipse-workspace/ForumService/src/main/java/org/assignment/config/Constants.java
+/home/siyara/eclipse-workspace/ForumService/src/main/java/org/assignment/db/DBadaptor.java
+/home/siyara/eclipse-workspace/ForumService/src/main/java/org/assignment/db/RedisAdaptor.java
+/home/siyara/eclipse-workspace/ForumService/src/main/java/org/assignment/constants/Constants.java
+/home/siyara/eclipse-workspace/ForumService/src/main/java/org/assignment/config/DbPropertySourcesPlaceholderConfigurer.java
+/home/siyara/eclipse-workspace/ForumService/src/main/java/org/assignment/util/JsonReader.java
+/home/siyara/eclipse-workspace/ForumService/src/main/java/org/assignment/util/RequestFilter.java
+/home/siyara/eclipse-workspace/ForumService/src/main/java/org/assignment/main/ForumServer.java
+/home/siyara/eclipse-workspace/ForumService/src/main/java/org/assignment/controller/Controller.java
+/home/siyara/eclipse-workspace/ForumService/src/main/java/org/assignment/service/MigratorService.java
+/home/siyara/eclipse-workspace/ForumService/src/main/java/org/assignment/config/AppProperties.java
+/home/siyara/eclipse-workspace/ForumService/src/main/java/org/assignment/service/ForumFetcher.java
+/home/siyara/eclipse-workspace/ForumService/src/main/java/org/assignment/config/PFApplicationConfig.java
+/home/siyara/eclipse-workspace/ForumService/src/main/java/org/assignment/constants/Users.java
+/home/siyara/eclipse-workspace/ForumService/src/main/java/org/assignment/config/PFSqlConfig.java
